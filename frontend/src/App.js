@@ -3,7 +3,7 @@ import Student from './Student';
 import CreateStudent from './CreateStudent';
 import UpdateStudent from './UpdateStudent';
 import './App.css'
-// this line has been added new in RakeshDev
+
 function App() {
   return (
     <BrowserRouter>
