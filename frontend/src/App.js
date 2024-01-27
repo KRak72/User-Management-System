@@ -3,7 +3,7 @@ import Student from './Student';
 import CreateStudent from './CreateStudent';
 import UpdateStudent from './UpdateStudent';
 import './App.css'
-// new line by varan
+
 function App() {
   return (
     <BrowserRouter>
